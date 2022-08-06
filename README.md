@@ -7,3 +7,7 @@ It has been made following [the tutorial in the main documentation](https://docs
 
     - Left Clic: Jump One Step
     - Right Clic: Jump Two Steps
+
+2. ## Engine version
+
+    Made with Cocos Creator v3.5.2
